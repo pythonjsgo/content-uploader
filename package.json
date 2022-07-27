@@ -1,0 +1,27 @@
+{
+  "name": "girls_photos_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^95.0.0",
+    "https": "^1.0.0",
+    "is-url": "^1.2.4",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "telegraf": "^3.39.0",
+    "telegram": "^2.6.13",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2",
+    "ya-disk": "^4.0.1",
+    "yandex-disk": "^0.0.8"
+  }
+}
